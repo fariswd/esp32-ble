@@ -1,5 +1,5 @@
 # BLE UART ESP32
-Send sensor read(LM35) every 0.5s and publish via BLE
+Send sensor read(LM35) every 0.5s and publish via BLE  
 <img src="https://raw.githubusercontent.com/fariswd/esp32-ble/master/ss.jpg" height="300">
 
 ## Requirement
